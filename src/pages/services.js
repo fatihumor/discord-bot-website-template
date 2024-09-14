@@ -44,11 +44,11 @@ export default function Services() {
 </span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
               </ul>
@@ -67,11 +67,11 @@ export default function Services() {
                   <span className="p-color">Your songs are carefully examined by our team. We upload/distribute to all platforms.</span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
               </ul>
@@ -90,11 +90,11 @@ export default function Services() {
                   <span className="p-color">We offer you extraordinary possibilities to promote your songs.</span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
               </ul>
@@ -114,11 +114,11 @@ export default function Services() {
                   <span className="p-color">We provide professional mixing and mastering services to ensure your music reaches the highest audio quality.</span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
               </ul>
@@ -138,11 +138,11 @@ export default function Services() {
                   <span className="p-color">We ensure the protection and management of the copyrights for your songs and other music works so you can receive the royalties you deserve.</span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
                 <li>
-                  <kbd></kbd> -{" "}
+                  <kbd></kbd> {" "}
                   <span className="p-color"></span>
                 </li>
               </ul>

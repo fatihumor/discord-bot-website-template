@@ -48,7 +48,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="voisrecords.com">
                   Home
                 </Link>
               </li>
@@ -67,21 +67,18 @@ const Footer = () => {
                 Instagram
               </Link>
             </p>
-            <p className="p-color">{year}Vois Records| &copy; All rights reserved.</p>
+            <p className="p-color">{year}Vois Records | &copy; All rights reserved.</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
-              /support
             </Link>
             <Link
               target="_blank"
               className="p-color no-decoration"
               href="https://instagram.com/voisrecords"
             >
-              /source-code
             </Link>
             <Link className="p-color no-decoration" href="#">
-              /privacy
             </Link>
           </div>
         </div>
