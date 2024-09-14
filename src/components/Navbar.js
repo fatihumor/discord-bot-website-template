@@ -8,7 +8,7 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="/">
-                BOT
+                Vois Records
               </Link>
             </li>
           </ul>
@@ -16,22 +16,17 @@ const Navbar = () => {
         <nav className="navbar-items">
           <ul>
             <li>
-              <Link className="p-color" href="/">
-                /home
-              </Link>
-            </li>
-            <li>
-              <Link className="p-color" href="/commands">
-                /commands
+              <Link className="p-color" href="/servives">
+                Our Services
               </Link>
             </li>
             <li>
               <Link
                 className="p-color"
-                href="https://github.com/preetsuthar17/discord-bot-website-template"
+                href="https://instagram.com/voisrecords"
                 target="_blank"
               >
-                /source-code
+                Instagram
               </Link>
             </li>
           </ul>

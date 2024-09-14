@@ -5,52 +5,51 @@ const About = () => {
     <>
       <section className="about-section" id="about-section">
         <div className="about-header">
-          <h3 className="h-color">Why use this bot?</h3>
+          <h3 className="h-color">Why Vois Records?</h3>
         </div>
         <div className="about-container">
           <div className="about-card">
             <div>
-              <h4 className="h-color">⚡ Commands</h4>
+              <h4 className="h-color">📤 Upload Songs</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                Your songs are carefully examined by our team. We upload/distribute to all platforms.
               </p>
               <hr />
             </div>
             <div>
               <h4 className="h-color">✉️ 24/7 Support</h4>
               <p className="p-color">
-                The biggest support community server for the bot available for
-                you anytime.
+                Our commitment to our artists doesn’t stop after signing. Vois Records offers 24/7 support, providing you with assistance and guidance whenever you need it. We’re here for you, day or night, ensuring your music journey is seamless.
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✏️ Customization</h4>
+              <h4 className="h-color">🚀 Promotion</h4>
               <p className="p-color">
-                Fully customizable discord bot completely FREE!
+                We offer you extraordinary possibilities to promote your songs.
               </p>
               <hr />
             </div>
           </div>
         </div>
         <p>
-          <Link href="/commands" className="h-color no-decoration">
-            Check out Commands &rarr;
+          <Link href="/services" className="h-color no-decoration">
+            Our Services &rarr;
           </Link>
         </p>
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">17k+</h4>
-            <p className="p-color">Total Servers</p>
+            <h4 className="h-color">15+</h4>
+            <p className="p-color">Artist</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">94k+</h4>
-            <p className="p-color">Total Users</p>
+            <h4 className="h-color">4M+</h4>
+            <p className="p-color">Stream</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">375k+</h4>
-            <p className="p-color">Total Commands</p>
+            <h4 className="h-color">20+</h4>
+            <p className="p-color">Songs</p>
           </div>
         </section>
       </section>

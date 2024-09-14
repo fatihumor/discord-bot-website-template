@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  Vois Records
                 </Link>
                 <span
                   style={{
@@ -30,7 +30,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  Bot is online!
+                  Vois Records online!
                 </span>
               </li>
             </ul>
@@ -38,18 +38,18 @@ const Footer = () => {
           <div className="footer-items">
             <ul>
               <li>
-                <Link className="p-color" href="/commands">
-                  /commands
+                <Link className="p-color" href="/services">
+                  Our Servives
                 </Link>
               </li>
               <li>
                 <Link className="p-color" href="#">
-                  /support
+                  Contact
                 </Link>
               </li>
               <li>
                 <Link className="p-color" href="#">
-                  /discord-server
+                  Home
                 </Link>
               </li>
             </ul>
@@ -59,15 +59,15 @@ const Footer = () => {
           <hr />
           <div>
             <p className="p-color">
-              Created with ❤️ by{" "}
+              Vois Records ❤️ {" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://instagram.com/voisrecords"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Instagram
               </Link>
             </p>
-            <p className="p-color">{year} &copy; All rights reserved!</p>
+            <p className="p-color">{year}Vois Records| &copy; All rights reserved.</p>
           </div>
           <div className="footer-sec2-link">
             <Link className="p-color no-decoration" href="#">
@@ -76,7 +76,7 @@ const Footer = () => {
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://instagram.com/voisrecords"
             >
               /source-code
             </Link>

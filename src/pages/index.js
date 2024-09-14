@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BOT</title>
+        <title>Vois Records</title>
         <meta
           name="description"
-          content="Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="Vois Records is an independent record label."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

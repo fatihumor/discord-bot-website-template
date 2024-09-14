@@ -10,26 +10,25 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
+        <h1 className="showcase-header h-color">Vois Records</h1>
         <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+          Vois Records is an independent record label.
         </h2>
         <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
-          your needs in your discord server.
+          Vois Records is an independent record label committed to discovering and promoting unique voices across diverse music genres. We collaborate with talented artists to bring fresh, original sounds to the world. Join us on our journey to shape the future of music.
         </p>
 
-        <span className="p-color">Bot is online!</span>
+        <span className="p-color">⚡</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
-              Invite now!
+            <Link className="h-color no-decoration" href="contact@voisrecords.com">
+              Contact
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
-              Join server!
+            <Link className="h-color no-decoration" href="https://instagram.com/voisrecords">
+              Instagram
             </Link>
           </button>
         </div>
