@@ -21,8 +21,8 @@ const Showcase = () => {
         <span className="p-color">⚡</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="mailto:contact@voisrecords.com">
-              Contact
+            <Link className="h-color no-decoration" href="https://www.youtube.com/@VoisRecords">
+              YouTube
             </Link>
           </button>
 
