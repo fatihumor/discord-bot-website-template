@@ -44,7 +44,7 @@ const About = () => {
             <p className="p-color">Artist</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">4M+</h4>
+            <h4 className="h-color">25M+</h4>
             <p className="p-color">Stream</p>
           </div>
           <div className="about-stats-card">
